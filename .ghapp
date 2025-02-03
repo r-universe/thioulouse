@@ -1,0 +1,10 @@
+{
+  "id": 60466580,
+  "created_at": "2025-02-03T13:41:17.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["thioulouse.r-universe.dev"]
+}
