@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/thioulouse/thioulouse.r-universe.dev
 	branch = HEAD
+[submodule "ade4"]
+	path = ade4
+	url = https://github.com/adeverse/ade4
+[submodule "ade4TkGUI"]
+	path = ade4TkGUI
+	url = https://github.com/adeverse/ade4TkGUI
+[submodule "ade4shiny"]
+	path = ade4shiny
+	url = https://github.com/adeverse/ade4shiny
+[submodule "adegraphics"]
+	path = adegraphics
+	url = https://github.com/adeverse/adegraphics
